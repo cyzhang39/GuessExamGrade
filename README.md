@@ -25,7 +25,9 @@ install necessary libraries
 Step 5: <br>
 run <br>
 python app.py <br>
-in the terminal and then following the link you can locally access the webpage
+in the terminal and then following the link you can locally access the webpage.
+Note the result is not accurate, we didn't have time to train model on people's 
+actual reactions on taking exams or checking answers. Feel free to play around with the numbers. 
 
 Step 6: <br>
 Since the model goes through videos frame-by-frame, it may take a few minutes <br>
