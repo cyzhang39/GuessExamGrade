@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Upload Video</title>
+    </head>
+    <body>
+        <p><h1 align="center"></h1></p>
+        <div class="container">
+            <div id="loading" style="display: none;">Processing... This may take up to a few minutes</div>
+                
+
+            <form method="post" action="{{url_for('upload')}}" enctype="multipart/form-data">
+                <dl>
+                    <input type="file" name="video" class="form-control" autocomplete="off" required>
+                </dl>
+                <input type="submit" value="Submit" onclick="showLoading()">
+
+            </form>
+        </div>
+        <script>
+            function showLoading() {
+                document.getElementById('loading').style.display = 'block';
+            }
+        </script>
+    </body>
+</html>
