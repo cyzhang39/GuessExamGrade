@@ -30,6 +30,7 @@ in the terminal and then following the link you can locally access the webpage
 Step 6: <br>
 Since the model goes through videos frame-by-frame, it may take a few minutes <br>
 or even longer depending on the size of your files <br>
+Since the front-end webpage part is incomplete, it doesn't play the processed video after loading your videos.<br>
 You can go to detr/static/processed to view the videos after evaluated by the <br>
 model
 
