@@ -1,4 +1,8 @@
 # GuessExamGrade
+
+#For a faster setup follow:<br>
+https://github.com/AdrianHuang2002/GuessExamPerformance/tree/master
+
 Assuming you have python installed <br>
 Step 1: <br>
 Create a python virtual environment <br>
