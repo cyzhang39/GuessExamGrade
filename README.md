@@ -2,7 +2,7 @@
 
 #For a faster setup follow:<br>
 https://github.com/AdrianHuang2002/GuessExamPerformance/tree/master<br>
-With python installed
+With python installed<br>
 Step 1: <br>
 Create a python virtual environment <br>
 You can follow <br>
