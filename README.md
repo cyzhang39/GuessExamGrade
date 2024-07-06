@@ -38,5 +38,3 @@ model
 
 A basic demo video for launching: <br>
 https://youtu.be/chLOtS3u0Fo
-
-Feel free to contact us if you have any questions.
