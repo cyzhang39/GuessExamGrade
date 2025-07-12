@@ -1,4 +1,5 @@
 # GuessExamGrade
+This is basically a DETR model for facial expression capture and emotion recognition.
 
 #For a faster setup follow:<br>
 https://github.com/AdrianHuang2002/GuessExamPerformance/tree/master<br>
@@ -35,5 +36,3 @@ Since the front-end webpage part is incomplete, it doesn't play the processed vi
 You can go to detr/static/processed to view the videos after evaluated by the <br>
 model
 
-A basic demo video for launching: <br>
-https://youtu.be/chLOtS3u0Fo
